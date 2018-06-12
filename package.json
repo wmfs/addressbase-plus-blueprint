@@ -1,26 +1,50 @@
 {
-  "name": "addressbase-plus-blueprint",
-  "version": "0.0.1",
-  "author": "Jasvinder Bahra",
-  "devDependencies": {
-    "chai": "4.1.2",
-    "tymly": "^0.0.17",
-    "tymly-pg-plugin": "^0.0.8",
-    "mocha": "5.2.0",
-    "standard": "11.0.1",
-    "rimraf": "2.6.2",
-    "tymly-test-helpers": "0.0.1"
-  },
-  "scripts": {
-    "lint": "standard",
-    "test": "standard && mocha"
-  },
+  "name": "@wmfs/addressbase-plus-blueprint",
+  "version": "0.0.0-semantically-released",
+  "description": "Tymly blueprint to support Ordnance Survey's addressbase plus",
+  "author": "West Midlands Fire Service",
+  "homepage": "https://github.com/wmfs/addressbase-plus-blueprint#readme",
+  "keywords": [
+    "tymly",
+    "blueprint",
+    "models",
+    "state machines",
+    "low code"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/tymly/blueprints/addressbase-plus-blueprint"
+    "url": "https://github.com/wmfs/addressbase-plus-blueprint.git"
   },
   "bugs": {
-    "url": "https://github.com/wmfs/tymly/blueprints/addressbase-plus-blueprint/issues"
+    "url": "https://github.com/wmfs/addressbase-plus-blueprint/issues"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "codecov": "3.0.2",
+    "cz-conventional-changelog": "2.1.0",
+    "mocha": "5.2.0",
+    "nyc": "12.0.2",
+    "semantic-release": "^15.5.0",
+    "standard": "11.0.1",
+    "rimraf": "2.6.2",
+    "@wmfs/tymly": "1.0.1",
+    "@wmfs/tymly-etl-plugin": "1.0.0",
+    "@wmfs/tymly-pg-plugin": "1.0.0",
+    "@wmfs/tymly-test-helpers": "1.0.0"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -3,7 +3,7 @@
 'use strict'
 
 const expect = require('chai').expect
-const tymly = require('tymly')
+const tymly = require('@wmfs/tymly')
 const path = require('path')
 const fs = require('fs')
 const rimraf = require('rimraf')
@@ -44,9 +44,9 @@ describe('Blueprint Tests', function () {
     tymly.boot(
       {
         pluginPaths: [
-          path.resolve(__dirname, './../../../plugins/tymly-etl-plugin'),
-          path.resolve(__dirname, './../../../plugins/tymly-pg-plugin'),
-          path.resolve(__dirname, '../node_modules/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
+          require.resolve('@wmfs/tymly-etl-plugin'),
+          require.resolve('@wmfs/tymly-pg-plugin'),
+          path.resolve(__dirname, '../node_modules/@wmfs/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
         ],
 
         blueprintPaths: [
