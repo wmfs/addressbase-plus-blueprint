@@ -71,9 +71,7 @@
       },
       {
         "path": "@semantic-release/git",
-        "assets": [
-          "CHANGELOG.md"
-        ]
+        "assets": ["CHANGELOG.md"]
       }
     ],
     "publish": [
