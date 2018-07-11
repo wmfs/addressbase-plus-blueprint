@@ -49,36 +49,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "release": {
-    "analyzeCommits": {
-      "preset": "angular",
-      "releaseRules": [
-        {"type": "build", "scope":"deps", "release": "minor"}
-      ]
-    },
-    "generateNotes": {
-      "preset": "metahub"
-    },
-    "verifyConditions": [
-      "@semantic-release/changelog",
-      "@semantic-release/git",
-      "@semantic-release/npm"
-    ],
-    "prepare": [
-      {
-        "path": "@semantic-release/changelog",
-        "changelogFile": "CHANGELOG.md"
-      },
-      {
-        "path": "@semantic-release/git",
-        "assets": ["CHANGELOG.md"]
-      },
-      "@semantic-release/npm"
-    ],
-    "publish": [
-      "@semantic-release/npm",
-      "@semantic-release/github"
-    ]
   }
 }
