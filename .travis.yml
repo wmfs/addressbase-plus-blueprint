@@ -19,7 +19,7 @@ before_script:
   - psql -c 'create database travis_ci_test;' -U postgres
 test:
   - npm test
-after_success:
+before_deploy:
   - npm run coverage
 deploy:
   - provider: script
