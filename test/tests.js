@@ -21,7 +21,6 @@ describe('Addressbase Plus Tests', function () {
 
   const syncOutputDir = path.resolve(outputDir, 'sync')
 
-
   let tymlyService
   let statebox
   let client
@@ -155,7 +154,6 @@ describe('Addressbase Plus Tests', function () {
       expect(result.rows[0]).to.eql(existing)
     })
   })
-
 
   describe('clean up', () => {
     it('clear down database', async () => {
