@@ -37,6 +37,11 @@
                   "columnIndex": 0
                 },
                 {
+                  "name": ".counter",
+                  "type": "constant",
+                  "value": 1
+                },
+                {
                   "name": "hash_sum",
                   "type": "hash"
                 },

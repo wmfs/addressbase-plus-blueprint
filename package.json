@@ -19,6 +19,11 @@
   "bugs": {
     "url": "https://github.com/wmfs/addressbase-plus-blueprint/issues"
   },
+  "dependencies": {
+    "@wmfs/gazetteer-blueprint": "1.3.0",
+    "@wmfs/tymly-etl-plugin": "1.17.0",
+    "@wmfs/tymly-pg-plugin": "1.23.0"
+  },
   "devDependencies": {
     "chai": "4.1.2",
     "codecov": "3.0.4",
@@ -32,8 +37,6 @@
     "@semantic-release/changelog": "3.0.0",
     "@semantic-release/git": "7.0.1",
     "@wmfs/tymly": "1.15.1",
-    "@wmfs/tymly-etl-plugin": "1.18.0",
-    "@wmfs/tymly-pg-plugin": "1.23.0",
     "@wmfs/tymly-test-helpers": "1.1.0"
   },
   "scripts": {
