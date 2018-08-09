@@ -1,0 +1,95 @@
+# [1.1.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.0.14...v1.1.0) (2018-08-09)
+
+
+### ✨ Features
+
+* Move Addressbase Plus sync into this blueprint from Addressbox ([424fb91](https://github.com/wmfs/addressbase-plus-blueprint/commit/424fb91))
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement from 1.17.0 to 1.20.0 ([169050b](https://github.com/wmfs/addressbase-plus-blueprint/commit/169050b))
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.23.0 to 1.24.0 ([96765c8](https://github.com/wmfs/addressbase-plus-blueprint/commit/96765c8))
+* **deps-dev:** don't carat semantic-release ([6ab5255](https://github.com/wmfs/addressbase-plus-blueprint/commit/6ab5255))
+* **deps-dev:** set semantic-release to 15.6.0 ([7bcedf8](https://github.com/wmfs/addressbase-plus-blueprint/commit/7bcedf8))
+* **deps-dev:** try version 15.7.1 semantic-release ([3199d9e](https://github.com/wmfs/addressbase-plus-blueprint/commit/3199d9e))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement to 2.1.2 ([cb985c8](https://github.com/wmfs/addressbase-plus-blueprint/commit/cb985c8))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement to 3.0.0 ([bc5cabb](https://github.com/wmfs/addressbase-plus-blueprint/commit/bc5cabb))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 6.0.2 ([ab6246d](https://github.com/wmfs/addressbase-plus-blueprint/commit/ab6246d))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 7.0.0 ([9f2e23c](https://github.com/wmfs/addressbase-plus-blueprint/commit/9f2e23c))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 7.0.1 ([b20f9de](https://github.com/wmfs/addressbase-plus-blueprint/commit/b20f9de))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.14.0 to 1.15.0 ([f99d728](https://github.com/wmfs/addressbase-plus-blueprint/commit/f99d728))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.15.0 to 1.15.1 ([d41422c](https://github.com/wmfs/addressbase-plus-blueprint/commit/d41422c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.10.0 ([1690b1d](https://github.com/wmfs/addressbase-plus-blueprint/commit/1690b1d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.12.0 ([f2cb2cc](https://github.com/wmfs/addressbase-plus-blueprint/commit/f2cb2cc))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.12.1 ([8d4d6f3](https://github.com/wmfs/addressbase-plus-blueprint/commit/8d4d6f3))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.13.0 ([54241c6](https://github.com/wmfs/addressbase-plus-blueprint/commit/54241c6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.13.1 ([31767d7](https://github.com/wmfs/addressbase-plus-blueprint/commit/31767d7))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.14.0 ([f957b2e](https://github.com/wmfs/addressbase-plus-blueprint/commit/f957b2e))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.8.0 ([254e0b2](https://github.com/wmfs/addressbase-plus-blueprint/commit/254e0b2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.9.0 ([62426aa](https://github.com/wmfs/addressbase-plus-blueprint/commit/62426aa))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement from 1.15.0 to 1.16.0 ([94f9cde](https://github.com/wmfs/addressbase-plus-blueprint/commit/94f9cde))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement from 1.16.0 to 1.17.0 ([75dc426](https://github.com/wmfs/addressbase-plus-blueprint/commit/75dc426))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement from 1.17.0 to 1.18.0 ([7824b80](https://github.com/wmfs/addressbase-plus-blueprint/commit/7824b80))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.10.0 ([aefddb5](https://github.com/wmfs/addressbase-plus-blueprint/commit/aefddb5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.11.0 ([00451c0](https://github.com/wmfs/addressbase-plus-blueprint/commit/00451c0))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.12.0 ([7f39d5f](https://github.com/wmfs/addressbase-plus-blueprint/commit/7f39d5f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.13.0 ([edbec30](https://github.com/wmfs/addressbase-plus-blueprint/commit/edbec30))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.14.0 ([ae23b9b](https://github.com/wmfs/addressbase-plus-blueprint/commit/ae23b9b))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.15.0 ([c2927fe](https://github.com/wmfs/addressbase-plus-blueprint/commit/c2927fe))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.8.0 ([81c3c13](https://github.com/wmfs/addressbase-plus-blueprint/commit/81c3c13))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement to 1.9.0 ([72b101a](https://github.com/wmfs/addressbase-plus-blueprint/commit/72b101a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.21.0 to 1.22.0 ([c7264c3](https://github.com/wmfs/addressbase-plus-blueprint/commit/c7264c3))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.22.0 to 1.23.0 ([b293b8d](https://github.com/wmfs/addressbase-plus-blueprint/commit/b293b8d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.10.0 ([06eab5f](https://github.com/wmfs/addressbase-plus-blueprint/commit/06eab5f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.11.0 ([3eeea24](https://github.com/wmfs/addressbase-plus-blueprint/commit/3eeea24))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.12.0 ([cae1ec6](https://github.com/wmfs/addressbase-plus-blueprint/commit/cae1ec6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.13.0 ([5204eaf](https://github.com/wmfs/addressbase-plus-blueprint/commit/5204eaf))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.14.0 ([eab4ef4](https://github.com/wmfs/addressbase-plus-blueprint/commit/eab4ef4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.15.0 ([a833de0](https://github.com/wmfs/addressbase-plus-blueprint/commit/a833de0))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.16.0 ([924b1db](https://github.com/wmfs/addressbase-plus-blueprint/commit/924b1db))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.17.0 ([56f435f](https://github.com/wmfs/addressbase-plus-blueprint/commit/56f435f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.18.0 ([4ebcbb7](https://github.com/wmfs/addressbase-plus-blueprint/commit/4ebcbb7))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.19.0 ([73f314c](https://github.com/wmfs/addressbase-plus-blueprint/commit/73f314c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.20.0 ([3f6568d](https://github.com/wmfs/addressbase-plus-blueprint/commit/3f6568d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement to 1.21.0 ([7847f79](https://github.com/wmfs/addressbase-plus-blueprint/commit/7847f79))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-test-helpers requirement to 1.1.0 ([2aa232e](https://github.com/wmfs/addressbase-plus-blueprint/commit/2aa232e))
+* **deps-dev:** update devDeps ([0275442](https://github.com/wmfs/addressbase-plus-blueprint/commit/0275442))
+* **deps-dev:** update semantic-release & tymly ([fed5029](https://github.com/wmfs/addressbase-plus-blueprint/commit/fed5029))
+* **deps-dev:** update semantic-release requirement from 15.9.3 to 15.9.5 ([2c8519f](https://github.com/wmfs/addressbase-plus-blueprint/commit/2c8519f))
+* **deps-dev:** update semantic-release requirement from 15.9.5 to 15.9.6 ([782926b](https://github.com/wmfs/addressbase-plus-blueprint/commit/782926b))
+* **deps-dev:** update semantic-release requirement to 15.7.2 ([d91e8f7](https://github.com/wmfs/addressbase-plus-blueprint/commit/d91e8f7))
+* **deps-dev:** update semantic-release requirement to 15.8.0 ([915c72a](https://github.com/wmfs/addressbase-plus-blueprint/commit/915c72a))
+* **deps-dev:** update semantic-release requirement to 15.8.1 ([93e9ecb](https://github.com/wmfs/addressbase-plus-blueprint/commit/93e9ecb))
+* **deps-dev:** update semantic-release requirement to 15.9.1 ([08106bb](https://github.com/wmfs/addressbase-plus-blueprint/commit/08106bb))
+* **deps-dev:** update semantic-release requirement to 15.9.2 ([418d4ec](https://github.com/wmfs/addressbase-plus-blueprint/commit/418d4ec))
+* **deps-dev:** update semantic-release requirement to 15.9.3 ([a8a4df7](https://github.com/wmfs/addressbase-plus-blueprint/commit/a8a4df7))
+
+
+### 📦 Code Refactoring
+
+* Throw some describes into the test file ([bf80fcc](https://github.com/wmfs/addressbase-plus-blueprint/commit/bf80fcc))
+
+
+### 📚 Documentation
+
+* add changelog ([f42d229](https://github.com/wmfs/addressbase-plus-blueprint/commit/f42d229))
+
+
+### ⚙️ Continuous Integrations
+
+* add config for changelog plugin and metahub note generating ([e1b7e51](https://github.com/wmfs/addressbase-plus-blueprint/commit/e1b7e51))
+* add extra plugin config ([12b4980](https://github.com/wmfs/addressbase-plus-blueprint/commit/12b4980))
+* add packages for extra semantic-release plugins ([bc2d6d2](https://github.com/wmfs/addressbase-plus-blueprint/commit/bc2d6d2))
+* change travis step to before_deploy ([6df62c7](https://github.com/wmfs/addressbase-plus-blueprint/commit/6df62c7))
+* dont release on deps-dev update ([614d4bf](https://github.com/wmfs/addressbase-plus-blueprint/commit/614d4bf))
+* refactor node version ([5681455](https://github.com/wmfs/addressbase-plus-blueprint/commit/5681455))
+* refactor semantic-release config ([9fadc6e](https://github.com/wmfs/addressbase-plus-blueprint/commit/9fadc6e))
+* update deploy on master and remove caching of npm directory ([9589d25](https://github.com/wmfs/addressbase-plus-blueprint/commit/9589d25))
+* **semantic-release:** use .releaserc for semantic-release config ([ecc5a0e](https://github.com/wmfs/addressbase-plus-blueprint/commit/ecc5a0e))
+* update semantic-release script ([51c6149](https://github.com/wmfs/addressbase-plus-blueprint/commit/51c6149))
+
+
+### 💎 Styles
+
+* Removed blank lines. ([459938e](https://github.com/wmfs/addressbase-plus-blueprint/commit/459938e))
