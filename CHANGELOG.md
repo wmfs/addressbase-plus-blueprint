@@ -1,3 +1,11 @@
+# [1.26.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.25.0...v1.26.0) (2018-09-05)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.37.0 to 1.38.0 ([a2386cb](https://github.com/wmfs/addressbase-plus-blueprint/commit/a2386cb))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([5c7652e](https://github.com/wmfs/addressbase-plus-blueprint/commit/5c7652e))
+
 # [1.25.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.24.0...v1.25.0) (2018-09-04)
 
 
