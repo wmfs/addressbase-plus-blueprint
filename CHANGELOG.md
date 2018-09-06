@@ -1,3 +1,10 @@
+# [1.34.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.33.0...v1.34.0) (2018-09-06)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/gazetteer-blueprint requirement ([ccdc4c7](https://github.com/wmfs/addressbase-plus-blueprint/commit/ccdc4c7))
+
 # [1.33.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.32.0...v1.33.0) (2018-09-06)
 
 
