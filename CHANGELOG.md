@@ -1,3 +1,10 @@
+# [1.51.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.50.0...v1.51.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement ([cd24ded](https://github.com/wmfs/addressbase-plus-blueprint/commit/cd24ded))
+
 # [1.50.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.49.0...v1.50.0) (2018-09-11)
 
 
