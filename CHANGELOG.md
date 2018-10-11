@@ -1,3 +1,10 @@
+# [1.91.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.90.0...v1.91.0) (2018-10-11)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/gazetteer-blueprint requirement ([f50c45f](https://github.com/wmfs/addressbase-plus-blueprint/commit/f50c45f))
+
 # [1.90.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.89.0...v1.90.0) (2018-10-08)
 
 
