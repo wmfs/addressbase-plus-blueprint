@@ -1,3 +1,10 @@
+# [1.119.0](https://github.com/wmfs/addressbase-plus-blueprin/compare/v1.118.0...v1.119.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-etl-plugin requirement ([83b87d0](https://github.com/wmfs/addressbase-plus-blueprin/commit/83b87d0))
+
 # [1.118.0](https://github.com/wmfs/addressbase-plus-blueprin/compare/v1.117.0...v1.118.0) (2018-11-01)
 
 
