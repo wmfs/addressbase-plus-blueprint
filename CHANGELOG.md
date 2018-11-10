@@ -1,3 +1,10 @@
+# [1.133.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.132.0...v1.133.0) (2018-11-10)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([e9c4a70](https://github.com/wmfs/addressbase-plus-blueprint/commit/e9c4a70))
+
 # [1.132.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.131.0...v1.132.0) (2018-11-10)
 
 
