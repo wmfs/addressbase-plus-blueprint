@@ -1,3 +1,17 @@
+# [1.150.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.149.0...v1.150.0) (2019-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** Update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([#373](https://github.com/wmfs/addressbase-plus-blueprint/issues/373)) ([d5882da](https://github.com/wmfs/addressbase-plus-blueprint/commit/d5882da))
+* **deps-dev:** Update rimraf requirement from 2.6.2 to 2.6.3 ([#372](https://github.com/wmfs/addressbase-plus-blueprint/issues/372)) ([cb6bd64](https://github.com/wmfs/addressbase-plus-blueprint/commit/cb6bd64))
+* **deps-dev:** Update semantic-release requirement from 15.12.3 to 15.13.1 ([d9793c0](https://github.com/wmfs/addressbase-plus-blueprint/commit/d9793c0))
+
+
+### ⚙️ Continuous Integrations
+
+* **travis:** use node lts ([e2ee958](https://github.com/wmfs/addressbase-plus-blueprint/commit/e2ee958))
+
 # [1.149.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.148.0...v1.149.0) (2018-11-30)
 
 
