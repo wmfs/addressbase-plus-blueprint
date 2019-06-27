@@ -1,3 +1,12 @@
+# [1.151.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.150.0...v1.151.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** Update [@wmfs](https://github.com/wmfs)/gazetteer-blueprint requirement ([f0e4d5f](https://github.com/wmfs/addressbase-plus-blueprint/commit/f0e4d5f))
+* **deps-dev:** Update [@semantic-release](https://github.com/semantic-release)/git requirement ([b320141](https://github.com/wmfs/addressbase-plus-blueprint/commit/b320141))
+* **deps-dev:** Update semantic-release requirement ([a16e8e4](https://github.com/wmfs/addressbase-plus-blueprint/commit/a16e8e4))
+
 # [1.150.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.149.0...v1.150.0) (2019-01-08)
 
 
