@@ -1,3 +1,28 @@
+## [1.153.1](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.153.0...v1.153.1) (2019-07-09)
+
+
+### 🐛 Bug Fixes
+
+* add index.js ([6b3ae57](https://github.com/wmfs/addressbase-plus-blueprint/commit/6b3ae57))
+
+
+### 🛠 Builds
+
+* **deps-dev:** Update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.75.0 to 1.94.1 ([f31dd4a](https://github.com/wmfs/addressbase-plus-blueprint/commit/f31dd4a))
+* **deps-dev:** Update mocha requirement from 5.2.0 to 6.1.4 ([ec29e44](https://github.com/wmfs/addressbase-plus-blueprint/commit/ec29e44))
+* **deps-dev:** Update nyc requirement from 13.1.0 to 14.1.1 ([3803a22](https://github.com/wmfs/addressbase-plus-blueprint/commit/3803a22))
+
+
+### 📚 Documentation
+
+* add circleci status [skip ci] ([16f1f01](https://github.com/wmfs/addressbase-plus-blueprint/commit/16f1f01))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Update CircleCI config - Travis migration ([8c0f6f5](https://github.com/wmfs/addressbase-plus-blueprint/commit/8c0f6f5))
+* **travis:** remove Travis config ([cd90511](https://github.com/wmfs/addressbase-plus-blueprint/commit/cd90511))
+
 # [1.153.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.152.0...v1.153.0) (2019-07-02)
 
 
