@@ -1,12 +1,14 @@
 {
   "namespace": "ordnanceSurvey",
   "name": "addressbasePlus",
-  "version": "1.0",
-
+  "version": "1.153.2",
   "label": "Addressbase Plus",
   "author": "Reece Brend",
-
   "organisation": "West Midlands Fire Service",
   "description": "Tymly blueprint to support Ordnance Survey's addressbase plus",
-  "categories": ["address", "addressbase", "gazetteer"]
+  "categories": [
+    "address",
+    "addressbase",
+    "gazetteer"
+  ]
 }
