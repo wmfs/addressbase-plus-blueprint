@@ -1,3 +1,39 @@
+## [1.153.2](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.153.1...v1.153.2) (2020-10-21)
+
+
+### 🐛 Bug Fixes
+
+* remove audit trigger from models ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/e828518))
+* statelint warnings ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/da71398))
+
+
+### 🛠 Builds
+
+* **deps-dev:** add [@semantic-release](https://github.com/semantic-release)/exec ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/6e26d31))
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/e0e4ceb))
+* **deps-dev:** update semantic-release dev dependencies ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/3091de7))
+
+
+### 📦 Code Refactoring
+
+* formatting ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/ea577ca))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/f36abb2))
+* **circle:** seperate lint job ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/21738b3))
+* **circle:** set npm registry token ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/97378b0))
+* **circle:** use updated circle node image [skip ci] ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/b53e277))
+* chmod version_blueprint script ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/3debac5))
+
+
+### ♻️ Chores
+
+* add blueprint version script ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/3198d69))
+* update semantic-release config ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/8e835e5))
+* update semantic-release config [ch27] ([](https://github.com/wmfs/addressbase-plus-blueprint/commit/ddbfa31))
+
 ## [1.153.1](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.153.0...v1.153.1) (2019-07-09)
 
 
