@@ -48,9 +48,9 @@ jobs:
     - checkout
     - run:
         name: install
-          command: |
-            npm config set //registry.npmjs.org/:_authToken=$NPM_TOKEN
-            npm install
+        command: |
+          npm config set //registry.npmjs.org/:_authToken=$NPM_TOKEN
+          npm install
     - run:
         name: release
         command: |
