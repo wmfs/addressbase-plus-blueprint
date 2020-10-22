@@ -28,7 +28,7 @@
     "chai": "4.2.0",
     "codecov": "3.5.0",
     "conventional-changelog-metahub": "4.0.1",
-    "cz-conventional-changelog": "3.0.2",
+    "cz-conventional-changelog": "3.3.0",
     "mocha": "8.2.0",
     "nyc": "14.1.1",
     "semantic-release": "17.2.1",
