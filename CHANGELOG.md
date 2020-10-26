@@ -1,3 +1,21 @@
+# [1.154.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.153.2...v1.154.0) (2020-10-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.124.0 to 1.231.0 ([70acb6f](https://github.com/wmfs/addressbase-plus-blueprint/commit/70acb6f41c2e6689ec0a58bbe19705d8b97d8cc9))
+* **deps-dev:** [Security] Bump codecov from 3.5.0 to 3.8.0 ([17ef974](https://github.com/wmfs/addressbase-plus-blueprint/commit/17ef974a4f64413f6a60a33552e5d91a64d39570))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([707c8aa](https://github.com/wmfs/addressbase-plus-blueprint/commit/707c8aaee34abfd0818cba0d66f94c1262276d5c))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.2.0 to 1.7.0 ([e381078](https://github.com/wmfs/addressbase-plus-blueprint/commit/e3810781a2e609ea304a3e471fd6d40fdbcf1c1f))
+* **deps-dev:** Bump conventional-changelog-metahub from 2.0.2 to 4.0.1 ([4c41224](https://github.com/wmfs/addressbase-plus-blueprint/commit/4c412248003c3b475d0d0198dd6e4d345499d4a1))
+* **deps-dev:** Bump cz-conventional-changelog from 3.0.2 to 3.3.0 ([22664eb](https://github.com/wmfs/addressbase-plus-blueprint/commit/22664eb3a5d9e692053725db9fc2b7f5523fc15e))
+* **deps-dev:** Bump mocha from 6.2.0 to 8.2.0 ([831d9fb](https://github.com/wmfs/addressbase-plus-blueprint/commit/831d9fb8864925d8ddc816ad8986ef02307f7e22))
+* **deps-dev:** Bump nyc from 14.1.1 to 15.1.0 ([3606993](https://github.com/wmfs/addressbase-plus-blueprint/commit/36069932819661402e1321d6039f3b9c2f334378))
+* **deps-dev:** Bump rimraf from 2.6.3 to 3.0.2 ([182b3b8](https://github.com/wmfs/addressbase-plus-blueprint/commit/182b3b8ca1ce68858b61c9f613849eb1057f71f7))
+* **deps-dev:** Bump semantic-release from 17.0.4 to 17.2.1 ([6cb6d7d](https://github.com/wmfs/addressbase-plus-blueprint/commit/6cb6d7d8d104d275c9951bdb14a08730eab2cd77))
+* **deps-dev:** Bump standard from 12.0.1 to 14.3.4 ([09b15d6](https://github.com/wmfs/addressbase-plus-blueprint/commit/09b15d6b7dfdba7c021fcf5d6c1c71d9e50444d4))
+* **deps-dev:** Bump standard from 14.3.4 to 15.0.0 ([0a749ab](https://github.com/wmfs/addressbase-plus-blueprint/commit/0a749ab6ea6235255c9cf1664fda2691aecec382))
+
 ## [1.153.2](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.153.1...v1.153.2) (2020-10-21)
 
 
