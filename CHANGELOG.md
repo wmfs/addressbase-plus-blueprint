@@ -1,3 +1,10 @@
+# [1.156.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.155.0...v1.156.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly-etl-plugin from 1.102.0 to 1.147.0 ([b47e84e](https://github.com/wmfs/addressbase-plus-blueprint/commit/b47e84eb30d790cab292229a3d34fceed6378d90))
+
 # [1.155.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.154.0...v1.155.0) (2021-01-12)
 
 
