@@ -1,3 +1,16 @@
+# [1.159.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.158.0...v1.159.0) (2021-01-20)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly-etl-plugin from 1.148.0 to 1.149.0 ([c431feb](https://github.com/wmfs/addressbase-plus-blueprint/commit/c431feb8de652ef0de2e89ba64c36ecd913a75b2))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.184.0 to 1.185.0 ([8c237e8](https://github.com/wmfs/addressbase-plus-blueprint/commit/8c237e84072319164f8f2d5c12db59f37453d4f0))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.185.0 to 1.186.0 ([b2761c4](https://github.com/wmfs/addressbase-plus-blueprint/commit/b2761c4faf632db8af2fb1b61468496d092f7326))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.186.0 to 1.187.0 ([14c2dbb](https://github.com/wmfs/addressbase-plus-blueprint/commit/14c2dbb6325270a8e6a3e1f6321d751a560270c9))
+* **deps-dev:** Bump semantic-release from 17.3.1 to 17.3.2 ([dab6bfe](https://github.com/wmfs/addressbase-plus-blueprint/commit/dab6bfe012f20bc49ab0d4ba5daa3ad934205609))
+* **deps-dev:** Bump semantic-release from 17.3.2 to 17.3.3 ([e82ac5d](https://github.com/wmfs/addressbase-plus-blueprint/commit/e82ac5d834cf58008743246bd19b7cfb7255d22c))
+* **deps-dev:** Bump semantic-release from 17.3.3 to 17.3.4 ([277e788](https://github.com/wmfs/addressbase-plus-blueprint/commit/277e788eba847f50691e5325a91e75e70e684905))
+
 # [1.158.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.157.0...v1.158.0) (2021-01-12)
 
 
