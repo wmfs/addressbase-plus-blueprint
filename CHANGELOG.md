@@ -1,3 +1,13 @@
+# [1.161.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.160.0...v1.161.0) (2021-01-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.237.0 to 1.238.0 ([d04e016](https://github.com/wmfs/addressbase-plus-blueprint/commit/d04e01623237410533d5afa47ba784e5658d748b))
+* **deps-dev:** Bump semantic-release from 17.3.4 to 17.3.5 ([25d2e58](https://github.com/wmfs/addressbase-plus-blueprint/commit/25d2e58b8a213142aabc0e1e3bed6b504467f5c0))
+* **deps-dev:** Bump semantic-release from 17.3.5 to 17.3.6 ([8b44710](https://github.com/wmfs/addressbase-plus-blueprint/commit/8b447104d61c12b52bf21eba92ecd1cbe01bca1d))
+* **deps-dev:** Bump semantic-release from 17.3.6 to 17.3.7 ([ccc184e](https://github.com/wmfs/addressbase-plus-blueprint/commit/ccc184e2ceb8982717c104edc48ef5346bd99646))
+
 # [1.160.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.159.0...v1.160.0) (2021-01-20)
 
 
