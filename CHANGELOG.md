@@ -1,3 +1,38 @@
+# [1.166.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.165.0...v1.166.0) (2021-05-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.245.0 to 1.247.0 ([818483c](https://github.com/wmfs/addressbase-plus-blueprint/commit/818483c4e99f8d9bf3311fdd714b41f9a593a933))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.191.0 to 1.192.0 ([d53cb68](https://github.com/wmfs/addressbase-plus-blueprint/commit/d53cb68269f5e2737dfc4fcf0c7d7ac13834fe20))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.192.0 to 1.193.0 ([6e0dc6e](https://github.com/wmfs/addressbase-plus-blueprint/commit/6e0dc6e6b969213ed50fd377b2ab87b1fc5f3489))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.193.0 to 1.194.0 ([1e8d57c](https://github.com/wmfs/addressbase-plus-blueprint/commit/1e8d57c37d122e90807ab2aa7ce13da8f1db44d6))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.194.0 to 1.195.0 ([8c7568c](https://github.com/wmfs/addressbase-plus-blueprint/commit/8c7568c965e8fe8ab503aec2f401c02afa4cbcff))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.0 to 1.195.1 ([34e9882](https://github.com/wmfs/addressbase-plus-blueprint/commit/34e98825a5f1d2ba885c5a3801ae83fd97bdbf92))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.1 to 1.196.0 ([c8519eb](https://github.com/wmfs/addressbase-plus-blueprint/commit/c8519eb45cd66b4aa2b131ce1d5820f48ce9b7b1))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.196.0 to 1.197.0 ([dddf644](https://github.com/wmfs/addressbase-plus-blueprint/commit/dddf644a764c5bc1333409e147b75a7d19d4fd65))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.197.0 to 1.198.0 ([f29d70b](https://github.com/wmfs/addressbase-plus-blueprint/commit/f29d70bf743e27efc9752ff4dedd3ec3d4487718))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.198.0 to 1.199.0 ([d9e0364](https://github.com/wmfs/addressbase-plus-blueprint/commit/d9e036498b8acc6f6c811300d5ce4d7f5b8e71df))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.199.0 to 1.200.0 ([3eaf4bc](https://github.com/wmfs/addressbase-plus-blueprint/commit/3eaf4bcd78c8cd1a1505b212b13b7dd55a09af3f))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.200.0 to 1.201.0 ([ba7b171](https://github.com/wmfs/addressbase-plus-blueprint/commit/ba7b171a5311ed71f45b16fb7046ae21062688cb))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.201.0 to 1.202.0 ([bd12e7e](https://github.com/wmfs/addressbase-plus-blueprint/commit/bd12e7ef5ee34554133a53fdda2b733aa62910b1))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.202.0 to 1.203.0 ([612ad0a](https://github.com/wmfs/addressbase-plus-blueprint/commit/612ad0ab8a69551d499c31d2ce625599df6ae6fb))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([63f82a4](https://github.com/wmfs/addressbase-plus-blueprint/commit/63f82a425a1f58d06c9cb5effa055ba06af9c79c))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.204.0 to 1.205.0 ([9034a4c](https://github.com/wmfs/addressbase-plus-blueprint/commit/9034a4c7531990640a9925971c160190b0218b5e))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.205.0 to 1.206.0 ([3fed25d](https://github.com/wmfs/addressbase-plus-blueprint/commit/3fed25d6e65e9d0c13f5368377d8da8cc73ab2ba))
+* **deps-dev:** Bump chai from 4.3.0 to 4.3.1 ([49dc47f](https://github.com/wmfs/addressbase-plus-blueprint/commit/49dc47f2d2d7b3a4419151316ec380ad2286edac))
+* **deps-dev:** Bump chai from 4.3.1 to 4.3.2 ([39aa50c](https://github.com/wmfs/addressbase-plus-blueprint/commit/39aa50cdc009fac4d2edb8b5c6c320d1f9b8c921))
+* **deps-dev:** Bump chai from 4.3.2 to 4.3.3 ([ac78753](https://github.com/wmfs/addressbase-plus-blueprint/commit/ac78753191ddc09fa49b5ce2d9c476ec11bff7fd))
+* **deps-dev:** Bump chai from 4.3.3 to 4.3.4 ([af9d400](https://github.com/wmfs/addressbase-plus-blueprint/commit/af9d40000d7db916797e207e7ce9672a78f07a37))
+* **deps-dev:** Bump codecov from 3.8.1 to 3.8.2 ([c4bd950](https://github.com/wmfs/addressbase-plus-blueprint/commit/c4bd950b3e68b1c69a3c4bf2ea53a003747b131d))
+* **deps-dev:** Bump mocha from 8.3.0 to 8.3.1 ([0ee7616](https://github.com/wmfs/addressbase-plus-blueprint/commit/0ee76160a3a21fdbb796af44cd50330ee9072bf1))
+* **deps-dev:** Bump mocha from 8.3.1 to 8.3.2 ([f23e454](https://github.com/wmfs/addressbase-plus-blueprint/commit/f23e4543cb4ac595b5365a5a95e7c52bacf42ffb))
+* **deps-dev:** Bump mocha from 8.3.2 to 8.4.0 ([9e2d0a3](https://github.com/wmfs/addressbase-plus-blueprint/commit/9e2d0a3898db62636fdaf75d1abe37eddc8456a9))
+* **deps-dev:** Bump semantic-release from 17.3.9 to 17.4.0 ([450d947](https://github.com/wmfs/addressbase-plus-blueprint/commit/450d94710768d5180cad764a0c96669c8deda05a))
+* **deps-dev:** Bump semantic-release from 17.4.0 to 17.4.1 ([171c9bb](https://github.com/wmfs/addressbase-plus-blueprint/commit/171c9bb805d471344588676985969b047e0b5d4b))
+* **deps-dev:** Bump semantic-release from 17.4.1 to 17.4.2 ([6e9dbb5](https://github.com/wmfs/addressbase-plus-blueprint/commit/6e9dbb5a39f75959993a36920a329f83b7442fc9))
+* **deps-dev:** Bump semantic-release from 17.4.2 to 17.4.3 ([e12dbb6](https://github.com/wmfs/addressbase-plus-blueprint/commit/e12dbb62645ffa7f4027faac0f2126d2d7ec39c6))
+
 # [1.165.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.164.0...v1.165.0) (2021-02-24)
 
 
