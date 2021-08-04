@@ -1,3 +1,26 @@
+# [1.169.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.168.0...v1.169.0) (2021-08-04)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly-etl-plugin to v1.155.0 ([19998f3](https://github.com/wmfs/addressbase-plus-blueprint/commit/19998f3d75887500f041abc76b5aea77e619b037))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.209.0 to 1.210.0 ([410a1c5](https://github.com/wmfs/addressbase-plus-blueprint/commit/410a1c52d2397b0300f892cfa9246ff34a6cd047))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.210.0 to 1.211.0 ([751a734](https://github.com/wmfs/addressbase-plus-blueprint/commit/751a734cbee0f4cfd2eeaa6c4bab2aa85f3bd77b))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.211.0 to 1.212.0 ([b51ad10](https://github.com/wmfs/addressbase-plus-blueprint/commit/b51ad105f745805ecb03560816c070c381123947))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.7.0 to 1.8.0 ([885152f](https://github.com/wmfs/addressbase-plus-blueprint/commit/885152f45d222f3a7feab988fc3f45172247ac0b))
+* **deps-dev:** Bump codecov from 3.8.2 to 3.8.3 ([a008c07](https://github.com/wmfs/addressbase-plus-blueprint/commit/a008c0786001830ad2b14dac7c1abe0e0eb4ffff))
+* **deps-dev:** Bump mocha from 8.4.0 to 9.0.0 ([0795f9a](https://github.com/wmfs/addressbase-plus-blueprint/commit/0795f9a21ea6bfd8640edf3850a69d697b8de43e))
+* **deps-dev:** Bump mocha from 9.0.0 to 9.0.1 ([4c67a90](https://github.com/wmfs/addressbase-plus-blueprint/commit/4c67a90dbcd70354c415ce6c7e11616d70c48e83))
+* **deps-dev:** Bump mocha from 9.0.1 to 9.0.2 ([a12c488](https://github.com/wmfs/addressbase-plus-blueprint/commit/a12c488c08101f94ef33f9c4371b5a2fe8db6d8d))
+* **deps-dev:** Bump mocha from 9.0.2 to 9.0.3 ([47b3370](https://github.com/wmfs/addressbase-plus-blueprint/commit/47b3370712754f093336af49c95f9277063a680b))
+* **deps-dev:** Bump semantic-release from 17.4.3 to 17.4.4 ([c8d44f5](https://github.com/wmfs/addressbase-plus-blueprint/commit/c8d44f56b6252946a1ac9093bac7fdab5e6a69d4))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([ef68c7e](https://github.com/wmfs/addressbase-plus-blueprint/commit/ef68c7ea90a993953ac2120d0108be4dc291d1ef))
+* add renovate config [ch6600] ([f2e8db6](https://github.com/wmfs/addressbase-plus-blueprint/commit/f2e8db63c10489e4de7481aac8d3801f7889bed0))
+
 # [1.168.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.167.0...v1.168.0) (2021-05-26)
 
 
