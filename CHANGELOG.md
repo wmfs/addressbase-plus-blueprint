@@ -1,3 +1,21 @@
+# [1.170.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.169.0...v1.170.0) (2021-09-10)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.256.0 ([935e8f4](https://github.com/wmfs/addressbase-plus-blueprint/commit/935e8f42c3047d99c6885c25671b684637559efa))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([8a7aef3](https://github.com/wmfs/addressbase-plus-blueprint/commit/8a7aef3679cb20e03717154e19f2be58301451ae))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.2 ([54384a5](https://github.com/wmfs/addressbase-plus-blueprint/commit/54384a5f475a58661bf7b16107af32d46e00092c))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.3 ([c21293d](https://github.com/wmfs/addressbase-plus-blueprint/commit/c21293d1ca140c2b8c85b059517704841e94c454))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.4 ([cf14317](https://github.com/wmfs/addressbase-plus-blueprint/commit/cf143173d2a0742eb33e0c429273293e53ba8e14))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.213.0 ([d181602](https://github.com/wmfs/addressbase-plus-blueprint/commit/d181602c78303c1574deb00d9cd226ef4a3f567b))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-test-helpers to v1.10.0 ([594ddfa](https://github.com/wmfs/addressbase-plus-blueprint/commit/594ddfacb098952a1f0a29d4484a11781ac2f78a))
+* **deps-dev:** update dependency mocha to v9.1.0 ([de17036](https://github.com/wmfs/addressbase-plus-blueprint/commit/de170364a1fb3d942a36e39271f8682a24506929))
+* **deps-dev:** update dependency mocha to v9.1.1 ([d87a18e](https://github.com/wmfs/addressbase-plus-blueprint/commit/d87a18e07f616b6f41c293eef2f70867b6e882fc))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([4829f60](https://github.com/wmfs/addressbase-plus-blueprint/commit/4829f6044c9af92fb9aa023c5b39546f34e831db))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([04b6c59](https://github.com/wmfs/addressbase-plus-blueprint/commit/04b6c59a91916fc7ae634adba99207a67f9c1de0))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([2101acf](https://github.com/wmfs/addressbase-plus-blueprint/commit/2101acf7ac47d45fc5be983e5deac5898696233d))
+
 # [1.169.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.168.0...v1.169.0) (2021-08-04)
 
 
