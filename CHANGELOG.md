@@ -1,3 +1,15 @@
+# [1.172.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.171.0...v1.172.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.228.0 ([5826547](https://github.com/wmfs/addressbase-plus-blueprint/commit/5826547ffbca110b9ef048ff237213a295c23ff9))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-test-helpers to v1.13.0 ([63d568d](https://github.com/wmfs/addressbase-plus-blueprint/commit/63d568d458ec3a8e411988ec173c8e20626467f3))
+* **deps-dev:** update dependency mocha to v9.1.4 ([c50ead3](https://github.com/wmfs/addressbase-plus-blueprint/commit/c50ead321260c94ebb49c3a45aed98aa5dba13fd))
+* **deps-dev:** update dependency mocha to v9.2.0 ([2477062](https://github.com/wmfs/addressbase-plus-blueprint/commit/2477062fd63a8fe2dc6a6213193aa0121238e4bb))
+* **deps-dev:** update dependency semantic-release to v19 ([b776317](https://github.com/wmfs/addressbase-plus-blueprint/commit/b7763178a6cda2f0ad38c53e48028ead59d1f94d))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.258.1 ([d17b3ce](https://github.com/wmfs/addressbase-plus-blueprint/commit/d17b3ce5720df1e02c39c5ba39c2ece8c042c950))
+
 # [1.171.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.170.0...v1.171.0) (2022-01-10)
 
 
