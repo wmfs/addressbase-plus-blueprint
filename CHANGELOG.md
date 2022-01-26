@@ -1,3 +1,11 @@
+# [1.175.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.174.0...v1.175.0) (2022-01-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([fb36a8c](https://github.com/wmfs/addressbase-plus-blueprint/commit/fb36a8c9ba0b07599c09e4449be9ce8ad5b85f86))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly-etl-plugin to v1.158.0 ([b1dbf9d](https://github.com/wmfs/addressbase-plus-blueprint/commit/b1dbf9d4d739bfe757ee62366fb4683950eef082))
+
 # [1.174.0](https://github.com/wmfs/addressbase-plus-blueprint/compare/v1.173.0...v1.174.0) (2022-01-25)
 
 
