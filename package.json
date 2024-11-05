@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@wmfs/gazetteer-blueprint": "1.7.3",
-    "@wmfs/tymly-etl-plugin": "1.175.0",
+    "@wmfs/tymly-etl-plugin": "1.176.0",
     "@wmfs/tymly-pg-plugin": "1.299.0"
   },
   "devDependencies": {
