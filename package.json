@@ -25,7 +25,7 @@
     "@wmfs/tymly-pg-plugin": "1.348.0"
   },
   "devDependencies": {
-    "chai": "6.2.1",
+    "chai": "6.2.2",
     "codecov": "3.8.3",
     "conventional-changelog-metahub": "4.0.1",
     "cz-conventional-changelog": "3.3.0",
